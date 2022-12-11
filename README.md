@@ -1,4 +1,4 @@
-# ripple_animation_demo
+# Ripple Animation Module
 
 A flutter app demonstrating the ripple animation.
 
@@ -6,7 +6,7 @@ A flutter app demonstrating the ripple animation.
  # Demo
   <table>
   <tr>
-  <td><img src="https://github.com/MarvelApps-Flutter/ripple_animation_demo/blob/master/working_demo/.gif" height="480px"></td>
+  <td><img src="https://github.com/MarvelApps-Flutter/ripple_animation_demo/blob/master/working_demo/ripple_animation_module.gif" height="480px"></td>
     </tr>
   </table>
 
